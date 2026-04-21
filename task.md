@@ -1,0 +1,8 @@
+- [ ] Set up Python environment and install dependencies
+- [ ] Find and download Crop Yield dataset from `data.gov.in`
+- [ ] Explore CSV (columns, missing values, statistics)
+- [ ] Data preprocessing and feature engineering
+- [ ] Train ML model (Random Forest/XGBoost)
+- [ ] Create FastAPI backend
+- [ ] Build React frontend dashboard
+- [ ] End-to-end integration and verification
